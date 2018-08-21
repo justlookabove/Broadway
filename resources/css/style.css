@@ -1,0 +1,52 @@
+* {
+    font-family: "Helvatica", sans-serif;
+}
+
+.title {
+    font-family: "Helvatica", sans-serif;
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+    background-image: url(../the-flatiron-building.png);
+    text-align: center;
+    background-size: cover;
+}
+
+#links {
+    font-family: "Helvatica", sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+.Process {
+    font-family: "Helvatica", sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Identify {
+    font-family: "Helvatica", sans-serif;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Understand {
+    font-family: "Helvatica", sans-serif;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Execute {
+    font-family: "Helvatica", sans-serif;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#p {
+    font-size: 14px;
+    font-weight: normal;
+}
