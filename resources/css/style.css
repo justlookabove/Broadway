@@ -25,28 +25,31 @@
     text-align: center;
 }
 
-.Identify {
+.Stuff {
     font-family: "Helvatica", sans-serif;
     font-size: 23px;
     font-weight: bold;
     text-align: center;
 }
 
-.Understand {
+.Designed_in_New_York {
     font-family: "Helvatica", sans-serif;
-    font-size: 23px;
+    font-size: 25px;
     font-weight: bold;
+    color: white;
     text-align: center;
-}
-
-.Execute {
-    font-family: "Helvatica", sans-serif;
-    font-size: 23px;
-    font-weight: bold;
-    text-align: center;
+    background-image: url(../the-flatiron-building.png);
 }
 
 #p {
     font-size: 14px;
+    font-weight: normal;
+}
+
+.Credits {
+    font-family: "Helvatica", sans-serif;
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
     font-weight: normal;
 }
